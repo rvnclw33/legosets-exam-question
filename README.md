@@ -1,4 +1,4 @@
-# EXAM 1: LegoSet Assignment
+# EXAM: LegoSet Assignment
 
 ## Assignment
 In this assignment, you must work with LEGO sets. The `legosets.LegoSet` record class represents a LEGO set, and it has the following components:
